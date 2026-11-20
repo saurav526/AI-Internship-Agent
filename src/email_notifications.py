@@ -1,5 +1,4 @@
 """Email Notification System for AI Internship Application Agent.
-
 Capabilities:
 1. Submission Confirmation Email (`send_submission_confirmation_email`):
    - Subject: "Internship Application Successfully Submitted – [Company Name]"
