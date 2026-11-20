@@ -1,11 +1,11 @@
 """AI Intelligence Engine for AI Internship Application Agent.
-
 Provides:
 1. Modular LLM Provider Interface (Gemini, OpenAI, Groq, and Local Deterministic Fallback)
 2. Job Description Parser & Skill Extractor
 3. Semantic Matching (TF-IDF Cosine Similarity + optional Sentence-Transformers embeddings)
 4. Missing Skill Analysis & Compatibility Ranking
 5. Fact-Grounded Customized Cover Letter & Form Answer Generator (Never invents qualifications)
+Its main aim is to provide a robust, modular, and extensible AI engine for matching candidates to internship opportunities and generating application materials without hallucination.
 """
 import os
 import re
