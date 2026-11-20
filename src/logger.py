@@ -1,8 +1,10 @@
-"""Centralized logging configuration for AI Internship Application Agent."""
+"""Centralized logging configuration for AI Internship Application Agent.
+
+It provides a consistent logging interface across the application, writing to both console and file outputs.
+"""
 import logging
 import os
 from pathlib import Path
-
 
 def get_logger(name: str = "internship_agent") -> logging.Logger:
     """Return a configured logger writing to both console and file."""
