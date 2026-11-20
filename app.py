@@ -1,5 +1,4 @@
 """AI Internship Application Agent - Primary Streamlit Dashboard.
-
 Implements all 8 required pages:
 A. Overview
 B. Resume Manager
