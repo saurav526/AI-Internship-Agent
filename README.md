@@ -1,7 +1,6 @@
 # 🤖 AI Internship Application Agent
 
 A complete, human-in-the-loop **AI Internship Application Agent** built with **Python**, **Streamlit**, **SQLite**, **Playwright**, **PyMuPDF**, **python-docx**, **scikit-learn**, **Sentence Transformers**, and **Pydantic**.
-
 ---
 
 ## 🌟 Core Capabilities
