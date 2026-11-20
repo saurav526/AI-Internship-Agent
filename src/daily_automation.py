@@ -25,7 +25,6 @@ import traceback
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List
-
 from src.ai_engine import AIIntelligenceEngine
 from src.config import load_settings
 from src.database import DatabaseManager
