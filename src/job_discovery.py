@@ -1,5 +1,4 @@
 """Legitimate Job Discovery Engine for AI Internship Application Agent.
-
 Supports target roles:
 - AI Engineer
 - Agentic AI Developer
