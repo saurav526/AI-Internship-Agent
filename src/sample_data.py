@@ -9,7 +9,6 @@ Creates:
 import json
 from pathlib import Path
 from typing import Tuple
-
 import docx
 import pymupdf
 
