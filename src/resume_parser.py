@@ -2,6 +2,8 @@
 
 Strict Anti-Hallucination Rule:
 Only extracts text, skills, education, projects, and experience explicitly present in the document.
+TI read the resume text and extract structured information without inventing any qualifications, skills, or experiences that are not explicitly mentioned in the resume.
+The parser uses a canonical skill taxonomy to identify relevant skills and technologies mentioned in the resume.
 """
 import re
 from pathlib import Path
