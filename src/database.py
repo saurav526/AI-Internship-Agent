@@ -1,5 +1,4 @@
 """SQLite database repository for AI Internship Application Agent.
-
 Manages tables:
 1. resume_profiles
 2. job_listings
