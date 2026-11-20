@@ -1,5 +1,4 @@
 """Windows Task Scheduler Manager for AI Internship Agent Daily Discovery.
-
 Configures and verifies the Windows Scheduled Task:
 - Task Name: "AI Internship Agent Daily Discovery"
 - Schedule: Daily at 09:00 AM (Local Windows Timezone: Asia/Kolkata / India Standard Time)
