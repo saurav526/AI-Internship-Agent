@@ -1,4 +1,14 @@
-"""Unit and integration test suite for AI Internship Application Agent."""
+"""Unit and integration test suite for AI Internship Application Agent.
+this file explain the test cases for the agent, including resume parsing, job matching, database operations, browser automation, email notifications, and Windows task scheduling.
+The tests ensure that the agent's core functionalities work as expected, including:
+1. Resume Parsing (PDF and DOCX) with fact-only extraction of skills, education, projects, and experience.
+2. Semantic Job Matching and Zero-Hallucination Cover Letter Generation.
+3. Database Workflow: Resume -> Job -> Match -> Draft -> Approval -> Duplicate Prevention -> Export
+4. Playwright Browser Automation Safety and Local Portal Autofill.
+5. Source URL Verification and Daily Scheduled Pipeline Execution.
+6. Email Notifications for Test Emails, Submission Confirmations, and Daily Run Summaries.
+7. Windows Launchpad and Desktop Shortcut Creation.
+"""
 from pathlib import Path
 import pytest
 
