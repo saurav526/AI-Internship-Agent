@@ -1,8 +1,8 @@
 # 📊 Daily AI Internship Discovery & Matching Report
 
 - **Execution Status:** `SUCCESS`
-- **Start Time:** `2026-11-20 12:27:30 IST`
-- **Completion Time:** `2026-11-20 12:27:35 IST` (`4.71s`)
+- **Start Time:** `2026-11-20 21:58:59 IST`
+- **Completion Time:** `2026-11-20 21:59:06 IST` (`7.21s`)
 - **Approved Resume Profile:** `SAURAV KUMAR` (`sauravtiwari2712005@gmail.com`)
 - **Target Roles:** AI Engineer, Agentic AI, Generative AI, Machine Learning, Data Science
 - **Target Locations:** India, Pune, Remote
@@ -11,10 +11,10 @@
 
 ## 📈 Pipeline Execution Summary
 
-- **Total Permitted Opportunities Discovered / Evaluated:** 24
-- **Verified Source Opportunities:** 17
-- **Matching Opportunities (≥60% Match):** 23
-- **Duplicates Removed:** 25
+- **Total Permitted Opportunities Discovered / Evaluated:** 23
+- **Verified Source Opportunities:** 16
+- **Matching Opportunities (≥60% Match):** 22
+- **Duplicates Removed:** 24
 - **Expired Listings Removed:** 0
 - **Top Ranked Opportunities Listed:** 20
 - **Application Drafts Prepared This Run:** 5
@@ -44,15 +44,15 @@
 | 17 | **Google DeepMind India (Student & Research Careers)** | Machine Learning Research Intern | Bangalore / Remote, India | ₹60,000 / month | **68.5%** | ✅ Verified Source (`VERIFIED_OFFICIAL_SOURCE_URL (DeepMind Careers)`) | [Apply Link](https://deepmind.google/about/careers/) |
 | 18 | **Persistent Systems (Pune AI Lab)** | Agentic AI Systems Intern | Pune, India | ₹46,000 / month | **68.3%** | ✅ Verified Source (`VERIFIED_OFFICIAL_SOURCE_URL (Persistent Careers)`) | [Apply Link](https://careers.persistent.com/jobs?search=AI+Intern&location=Pune) |
 | 19 | **Internshala Data Science Feed (Pune & Remote)** | Data Science & Analytics Intern | Remote / Pune, India | ₹34,000 / month | **66.8%** | ✅ Verified Source (`VERIFIED_OFFICIAL_SOURCE_URL (Internshala Data Science)`) | [Apply Link](https://internshala.com/internships/data-science-internship-in-pune/) |
-| 20 | **jetbrains** | Founding Tech Lead (GrowthBricks) | Berlin; Remote | Competitive | **64.9%** | ✅ Verified Source (`VERIFIED_LIVE_PUBLIC_API (Arbeitnow)`) | [Apply Link](https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-tech-lead-growthbricks-155233) |
+| 20 | **VisionaryRobotics India** | Machine Learning & Computer Vision Intern | Chennai / Hybrid | ₹32,000 / month | **64.3%** | ⚠️ Unverified / Demo Sandbox (`UNVERIFIED_DEMO_PORTAL (Local Form Test Sandbox)`) | [Apply Link](file:///C:/Users/Asus/Downloads/AI-Internship-Agent/data/mock_portals/portal_ml_datascience.html) |
 
 ## ✉️ Prepared Application Drafts (Queued in Approval Center)
 
-- **Draft #45** — **AI Engineer Intern (NLP & RAG)** at **Internshala Verified Partner (Pune Hybrid)** (Match: `79.3%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
 - **Draft #46** — **AI & NLP Engineer Intern** at **Zoho Labs (AI Research & Engineering)** (Match: `78.3%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
 - **Draft #47** — **Machine Learning Engineer Intern (Predictive AI)** at **KPIT Technologies (Autonomous & AI Division)** (Match: `78.0%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
 - **Draft #48** — **AI Engineer Intern (Full-Stack AI Agents)** at **Infosys InStep (Global AI & ML Internship)** (Match: `76.6%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
 - **Draft #49** — **Agentic AI & RAG Developer Intern** at **Krutrim AI (Ola AI Labs)** (Match: `75.3%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
+- **Draft #67** — **Generative AI Application Intern** at **Wellfound AI Startups India** (Match: `75.1%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
 
 ## ⚠️ Source Diagnostics & Unavailable Sources Report
 

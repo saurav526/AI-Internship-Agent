@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-20 12:27:35 IST",
-  "start_time": "2026-11-20 12:27:30 IST",
-  "completion_time": "2026-11-20 12:27:35 IST",
-  "duration_seconds": 4.71,
+  "generated_at": "2026-11-20 21:59:06 IST",
+  "start_time": "2026-11-20 21:58:59 IST",
+  "completion_time": "2026-11-20 21:59:06 IST",
+  "duration_seconds": 7.21,
   "execution_status": "SUCCESS",
   "active_resume_profile": "SAURAV KUMAR",
   "summary": {
-    "valid_opportunities_evaluated": 24,
-    "verified_opportunities_count": 17,
-    "matching_opportunities_count": 23,
-    "duplicates_removed": 25,
+    "valid_opportunities_evaluated": 23,
+    "verified_opportunities_count": 16,
+    "matching_opportunities_count": 22,
+    "duplicates_removed": 24,
     "expired_removed": 0,
     "top_ranked_count": 20,
     "applications_prepared_for_approval": 5,
@@ -567,42 +567,36 @@
       "posted_date": "2026-11-20"
     },
     {
-      "job_id": 46,
-      "company": "jetbrains",
-      "role": "Founding Tech Lead (GrowthBricks)",
-      "role_category": "AI Engineer",
-      "location": "Berlin; Remote",
-      "stipend": "Competitive",
-      "platform": "Official Career Page",
-      "match_score": 64.9,
-      "skill_score": 100.0,
-      "semantic_score": 16.3,
+      "job_id": 10,
+      "company": "VisionaryRobotics India",
+      "role": "Machine Learning & Computer Vision Intern",
+      "role_category": "Machine Learning Engineer",
+      "location": "Chennai / Hybrid",
+      "stipend": "₹32,000 / month",
+      "platform": "Naukri",
+      "match_score": 64.3,
+      "skill_score": 85.7,
+      "semantic_score": 26.9,
       "matched_skills": [
-        "Agentic AI",
-        "LLMs"
+        "C++",
+        "Deep Learning",
+        "Machine Learning",
+        "NumPy",
+        "PyTorch",
+        "Python"
       ],
-      "missing_skills": [],
+      "missing_skills": [
+        "Computer Vision"
+      ],
       "recommendation": "Good Match - Worth Applying",
-      "application_url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-tech-lead-growthbricks-155233",
-      "source_url": "https://www.arbeitnow.com/api/job-board-api",
-      "is_verified_source": true,
-      "verification_status": "VERIFIED_LIVE_PUBLIC_API (Arbeitnow)",
-      "posted_date": "2026-11-20"
+      "application_url": "file:///C:/Users/Asus/Downloads/AI-Internship-Agent/data/mock_portals/portal_ml_datascience.html",
+      "source_url": "file:///C:/Users/Asus/Downloads/AI-Internship-Agent/data/mock_portals/portal_ml_datascience.html",
+      "is_verified_source": false,
+      "verification_status": "UNVERIFIED_DEMO_PORTAL (Local Form Test Sandbox)",
+      "posted_date": "2026-11-19"
     }
   ],
   "prepared_application_drafts": [
-    {
-      "draft_id": 45,
-      "job_id": 32,
-      "company": "Internshala Verified Partner (Pune Hybrid)",
-      "role": "AI Engineer Intern (NLP & RAG)",
-      "platform": "Internshala",
-      "application_url": "https://internshala.com/internships/artificial-intelligence-ai-internship-in-pune/",
-      "is_verified_source": true,
-      "match_score": 79.3,
-      "is_new_draft": false,
-      "status": "Pending Approval (Never Auto-Submitted)"
-    },
     {
       "draft_id": 46,
       "job_id": 42,
@@ -649,6 +643,18 @@
       "is_verified_source": true,
       "match_score": 75.3,
       "is_new_draft": false,
+      "status": "Pending Approval (Never Auto-Submitted)"
+    },
+    {
+      "draft_id": 67,
+      "job_id": 36,
+      "company": "Wellfound AI Startups India",
+      "role": "Generative AI Application Intern",
+      "platform": "Wellfound",
+      "application_url": "https://wellfound.com/role/l/artificial-intelligence-engineer/india",
+      "is_verified_source": true,
+      "match_score": 75.1,
+      "is_new_draft": true,
       "status": "Pending Approval (Never Auto-Submitted)"
     }
   ],
