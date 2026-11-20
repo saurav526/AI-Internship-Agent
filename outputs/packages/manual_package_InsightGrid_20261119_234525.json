@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-11-19 23:45:25",
+  "automation_fallback_reason": "Indeed Terms of Service prohibit automated site interaction and automated application submission. Automation is disabled. Use the Direct Application URL and Prepared Application Package below to apply manually.",
+  "direct_application_url": "https://in.indeed.com/viewjob?jk=456",
+  "company": "InsightGrid",
+  "role": "Data Scientist Intern",
+  "platform": "Indeed",
+  "selected_resume_path": "C:\\Users\\Asus\\Downloads\\AI-Internship-Agent\\resumes\\sample_ai_engineer_resume.pdf",
+  "cover_letter": "",
+  "prepared_form_fields": {
+    "full_name": "Aarav Sharma",
+    "email": "aarav@example.com"
+  },
+  "privacy_notice": "No passwords, OTPs, or session cookies are ever requested or stored by the AI agent. Open the Direct Application URL in your browser and paste the prepared fields below."
+}

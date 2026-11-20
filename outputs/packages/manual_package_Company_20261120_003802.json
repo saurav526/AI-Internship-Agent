@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-11-20 00:38:02",
+  "automation_fallback_reason": "Emergency Stop Browser was triggered by the user.",
+  "direct_application_url": "file:///C:/Users/Asus/Downloads/AI-Internship-Agent/data/mock_portals/portal_agentic_ai.html",
+  "company": "Company",
+  "role": "Internship Role",
+  "platform": "Official Career Page",
+  "selected_resume_path": "C:\\Users\\Asus\\Downloads\\AI-Internship-Agent\\resumes\\sample_ai_engineer_resume.pdf",
+  "cover_letter": "Dear Hiring Team, please find my application attached.",
+  "prepared_form_fields": {
+    "full_name": "Aarav Sharma",
+    "email": "aarav.sharma.ai@example.com",
+    "phone": "+91 98765 43210",
+    "current_location": "Bangalore, India",
+    "linkedin_url": "https://linkedin.com/in/aarav-sharma-ai",
+    "github_url": "https://github.com/aarav-sharma-ai",
+    "degree": "B.Tech in CS (AI & ML)",
+    "institution": "IIIT Bangalore",
+    "gpa": "8.9/10",
+    "availability": "Immediate",
+    "primary_skills": "Python, LangGraph, PyTorch, FastAPI",
+    "why_this_role": "Strong alignment with multi-agent systems."
+  },
+  "privacy_notice": "No passwords, OTPs, or session cookies are ever requested or stored by the AI agent. Open the Direct Application URL in your browser and paste the prepared fields below."
+}

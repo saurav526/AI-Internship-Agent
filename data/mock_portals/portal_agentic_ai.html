@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>AetherMind Autonomous Systems - Agentic AI Developer Intern Application Portal</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+            background: #f4f7fb;
+            color: #1e293b;
+            margin: 0;
+            padding: 32px;
+        }
+        .container {
+            max-width: 780px;
+            margin: 0 auto;
+            background: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+            padding: 32px 40px;
+            border-top: 6px solid #2563eb;
+        }
+        .badge {
+            display: inline-block;
+            background: #e0f2fe;
+            color: #0369a1;
+            padding: 4px 12px;
+            border-radius: 999px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        h1 { margin: 4px 0 6px 0; font-size: 24px; color: #0f172a; }
+        p.sub { margin: 0 0 24px 0; color: #64748b; font-size: 14px; }
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+        }
+        .form-group {
+            margin-bottom: 16px;
+        }
+        label {
+            display: block;
+            font-size: 13px;
+            font-weight: 600;
+            margin-bottom: 6px;
+            color: #334155;
+        }
+        input[type="text"], input[type="email"], input[type="tel"], input[type="url"], textarea {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 10px 12px;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            font-size: 14px;
+            background: #f8fafc;
+        }
+        textarea { min-height: 110px; resize: vertical; }
+        .file-box {
+            padding: 14px;
+            border: 2px dashed #94a3b8;
+            border-radius: 8px;
+            background: #f8fafc;
+        }
+        .btn-submit {
+            background: #2563eb;
+            color: #ffffff;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            margin-top: 12px;
+        }
+        #submission-banner {
+            display: none;
+            margin-top: 20px;
+            padding: 16px;
+            border-radius: 8px;
+            background: #dcfce7;
+            color: #166534;
+            font-weight: 600;
+            border: 1px solid #86efac;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <span class="badge">Agentic AI & Python Portal</span>
+        <h1>Agentic AI Developer Intern</h1>
+        <p class="sub">AetherMind Autonomous Systems • Official Internship Application Form</p>
+
+        <form id="internship-application-form" onsubmit="event.preventDefault(); document.getElementById('submission-banner').style.display='block';">
+            <div class="grid">
+                <div class="form-group">
+                    <label for="full_name">Full Name *</label>
+                    <input type="text" id="full_name" name="full_name" placeholder="Enter your full name" required />
+                </div>
+                <div class="form-group">
+                    <label for="email">Email Address *</label>
+                    <input type="email" id="email" name="email" placeholder="name@example.com" required />
+                </div>
+                <div class="form-group">
+                    <label for="phone">Phone Number *</label>
+                    <input type="tel" id="phone" name="phone" placeholder="+91 9876543210" required />
+                </div>
+                <div class="form-group">
+                    <label for="current_location">Current Location *</label>
+                    <input type="text" id="current_location" name="current_location" placeholder="City, Country" />
+                </div>
+                <div class="form-group">
+                    <label for="linkedin_url">LinkedIn Profile URL</label>
+                    <input type="url" id="linkedin_url" name="linkedin_url" placeholder="https://linkedin.com/in/..." />
+                </div>
+                <div class="form-group">
+                    <label for="github_url">GitHub / Portfolio URL</label>
+                    <input type="url" id="github_url" name="github_url" placeholder="https://github.com/..." />
+                </div>
+                <div class="form-group">
+                    <label for="degree">Degree & Major</label>
+                    <input type="text" id="degree" name="degree" placeholder="B.Tech in CS / AI" />
+                </div>
+                <div class="form-group">
+                    <label for="institution">University / Institution</label>
+                    <input type="text" id="institution" name="institution" placeholder="University Name" />
+                </div>
+                <div class="form-group">
+                    <label for="gpa">CGPA / GPA</label>
+                    <input type="text" id="gpa" name="gpa" placeholder="8.9/10" />
+                </div>
+                <div class="form-group">
+                    <label for="availability">Availability / Start Date</label>
+                    <input type="text" id="availability" name="availability" placeholder="Immediate" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="primary_skills">Verified Technical Skills</label>
+                <input type="text" id="primary_skills" name="primary_skills" placeholder="Python, PyTorch, LangChain..." />
+            </div>
+
+            <div class="form-group">
+                <label for="why_this_role">Why are you interested in this internship?</label>
+                <textarea id="why_this_role" name="why_this_role" placeholder="Share your relevant background..."></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="cover_letter">Customized Cover Letter</label>
+                <textarea id="cover_letter" name="cover_letter" placeholder="Paste your cover letter..."></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="resume_upload">Upload Resume (PDF or DOCX) *</label>
+                <div class="file-box">
+                    <input type="file" id="resume_upload" name="resume_file" accept=".pdf,.docx" />
+                </div>
+            </div>
+
+            <button type="submit" id="submit-application-btn" class="btn-submit">Submit Internship Application</button>
+            <div id="submission-banner">
+                ✔ Application Submitted Successfully! Confirmation Reference: #INT-2026-VERIFIED
+            </div>
+        </form>
+    </div>
+</body>
+</html>

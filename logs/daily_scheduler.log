@@ -1,0 +1,30 @@
+[2026-11-20 12:10:20 IST] START | Daily Internship Discovery Pipeline triggered (PID=11800).
+[2026-11-20 12:10:21 IST] COMPLETED | status=SUCCESS | discovered=23 | verified=16 | matching=22 | drafts_prepared=5 | awaiting_approval=5 | duration=1.02s
+[20-11-2026 12:16:47.44] Starting Scheduled Daily Internship Discovery using C:\Python314\python.exe 
+2026-11-20 12:17:08 | WARNING  | daily_automation:_append_scheduler_log:66 - Could not write to daily_scheduler.log: [Errno 13] Permission denied: 'C:\\Users\\Asus\\Downloads\\AI-Internship-Agent\\logs\\daily_scheduler.log'
+2026-11-20 12:17:08 | INFO     | sample_data:ensure_sample_environment:318 - Synchronized 46 curated internship listings.
+2026-11-20 12:17:14 | INFO     | email_notifications:_dispatch_notification:204 - Duplicate email notification prevented for dedup_key=daily_run_summary_2026-11-20_5_5_success
+2026-11-20 12:17:14 | INFO     | daily_automation:run_daily_discovery_pipeline:444 - Updated daily internship discovery report at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_discovery_report.md
+2026-11-20 12:17:14 | WARNING  | daily_automation:_append_scheduler_log:66 - Could not write to daily_scheduler.log: [Errno 13] Permission denied: 'C:\\Users\\Asus\\Downloads\\AI-Internship-Agent\\logs\\daily_scheduler.log'
+{
+  "valid_opportunities_evaluated": 24,
+  "verified_opportunities_count": 17,
+  "matching_opportunities_count": 23,
+  "duplicates_removed": 25,
+  "expired_removed": 0,
+  "top_ranked_count": 20,
+  "applications_prepared_for_approval": 5,
+  "total_awaiting_approval_in_center": 5,
+  "auto_submitted_count": 0,
+  "email_notification_status": "DUPLICATE_PREVENTED"
+}
+Report written to: C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_discovery_report.md
+[20-11-2026 12:17:15.11] Completed Scheduled Daily Internship Discovery with exit code 0 
+[2026-11-20 12:19:03 IST] START | Daily Internship Discovery Pipeline triggered (PID=15756).
+[2026-11-20 12:19:03 IST] COMPLETED | status=SUCCESS | discovered=23 | verified=16 | matching=22 | drafts_prepared=3 | awaiting_approval=5 | duration=0.57s
+[2026-11-20 12:27:30 IST] START | Daily Internship Discovery Pipeline triggered (PID=14956).
+[2026-11-20 12:27:35 IST] COMPLETED | status=SUCCESS | discovered=24 | verified=17 | matching=23 | drafts_prepared=5 | awaiting_approval=5 | duration=4.71s
+[2026-11-20 12:27:41 IST] START | Daily Internship Discovery Pipeline triggered (PID=5080).
+[2026-11-20 12:31:47 IST] SKIPPED_OVERLAP | Duplicate / overlapping execution prevented: Another daily_automation process is currently active.
+[2026-11-20 12:34:51 IST] SKIPPED_OVERLAP | Duplicate / overlapping execution prevented: Another daily_automation process is currently active.
+[2026-11-20 12:36:23 IST] SKIPPED_OVERLAP | Duplicate / overlapping execution prevented: Another daily_automation process is currently active.
