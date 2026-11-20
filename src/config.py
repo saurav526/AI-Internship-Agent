@@ -1,11 +1,12 @@
-"""Configuration management for AI Internship Application Agent."""
+"""Configuration management for AI Internship Application Agent.
+It describes the AppSettings model, default values, and functions to load and save settings from/to JSON and .env files.
+"""
 import json
 import os
 from pathlib import Path
 from typing import List
 from dotenv import load_dotenv, set_key
 from pydantic import BaseModel, Field
-
 from src.logger import get_logger
 
 logger = get_logger("config")
