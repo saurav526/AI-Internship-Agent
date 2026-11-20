@@ -23,3 +23,4 @@ set "EXIT_CODE=%ERRORLEVEL%"
 echo [%DATE% %TIME%] Completed Scheduled Daily Internship Discovery with exit code %EXIT_CODE% >> "logs\task_scheduler_runner.log"
 
 exit /b %EXIT_CODE%
+
