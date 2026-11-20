@@ -16,6 +16,7 @@ Enforces all 14 Requirements + Emergency Stop Browser Control:
 13. Records submission confirmation and updates SQLite (`approve_and_record_submission`).
 14. If an application cannot be safely automated (prohibited terms, unverified domain, CAPTCHA/login block, or browser error), generates a direct application URL and a downloadable Prepared Application Package (`.json` + `.md`) for manual completion.
 15. Provides an immediate `emergency_stop_browser()` control and button in the UI.
+Its main purpose is to provide a safe, compliant, and user-controlled automation layer for applying to internships while respecting platform terms and user privacy.
 """
 import json
 import os
