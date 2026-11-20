@@ -8,6 +8,7 @@ E. Application Preparation
 F. Approval Center
 G. Application Tracker
 H. Settings
+this dashboard is the main entry point for the AI Internship Application Agent, providing a human-in-the-loop interface for discovering, matching, and preparing internship applications.
 """
 import json
 import os
