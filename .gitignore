@@ -1,5 +1,4 @@
 .venv
 .env
 *.pyc
-.env.example
 __pycache__/**
