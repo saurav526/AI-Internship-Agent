@@ -1,8 +1,8 @@
 # 📊 Daily AI Internship Discovery & Matching Report
 
 - **Execution Status:** `SUCCESS`
-- **Start Time:** `2026-11-20 21:58:59 IST`
-- **Completion Time:** `2026-11-20 21:59:06 IST` (`7.21s`)
+- **Start Time:** `2026-11-21 13:55:13 IST`
+- **Completion Time:** `2026-11-21 13:55:19 IST` (`5.62s`)
 - **Approved Resume Profile:** `SAURAV KUMAR` (`sauravtiwari2712005@gmail.com`)
 - **Target Roles:** AI Engineer, Agentic AI, Generative AI, Machine Learning, Data Science
 - **Target Locations:** India, Pune, Remote
@@ -48,11 +48,11 @@
 
 ## ✉️ Prepared Application Drafts (Queued in Approval Center)
 
-- **Draft #46** — **AI & NLP Engineer Intern** at **Zoho Labs (AI Research & Engineering)** (Match: `78.3%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
-- **Draft #47** — **Machine Learning Engineer Intern (Predictive AI)** at **KPIT Technologies (Autonomous & AI Division)** (Match: `78.0%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
-- **Draft #48** — **AI Engineer Intern (Full-Stack AI Agents)** at **Infosys InStep (Global AI & ML Internship)** (Match: `76.6%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
-- **Draft #49** — **Agentic AI & RAG Developer Intern** at **Krutrim AI (Ola AI Labs)** (Match: `75.3%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
-- **Draft #67** — **Generative AI Application Intern** at **Wellfound AI Startups India** (Match: `75.1%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
+- **Draft #73** — **Generative AI & LLM Research Intern** at **Sarvam AI** (Match: `70.9%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
+- **Draft #74** — **Agentic Workflow Engineer Intern** at **Hugging Face (Open-Source Agents & Hub)** (Match: `69.0%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
+- **Draft #75** — **Machine Learning Research Intern** at **Google DeepMind India (Student & Research Careers)** (Match: `68.5%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
+- **Draft #76** — **Agentic AI Systems Intern** at **Persistent Systems (Pune AI Lab)** (Match: `68.3%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
+- **Draft #77** — **Data Science & Analytics Intern** at **Internshala Data Science Feed (Pune & Remote)** (Match: `66.8%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
 
 ## ⚠️ Source Diagnostics & Unavailable Sources Report
 

@@ -42,3 +42,21 @@ Report written to: C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_dis
   ]
 }
 [20-11-2026 12:36:23.82] Completed Scheduled Daily Internship Discovery with exit code 0 
+[21-11-2026 13:55:10.57] Starting Scheduled Daily Internship Discovery using C:\Python314\python.exe 
+2026-11-21 13:55:13 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 46 curated internship listings.
+2026-11-21 13:55:19 | INFO     | email_notifications:_dispatch_notification:203 - Duplicate email notification prevented for dedup_key=daily_run_summary_2026-11-21_5_5_success
+2026-11-21 13:55:19 | INFO     | daily_automation:run_daily_discovery_pipeline:443 - Updated daily internship discovery report at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_discovery_report.md
+{
+  "valid_opportunities_evaluated": 23,
+  "verified_opportunities_count": 16,
+  "matching_opportunities_count": 22,
+  "duplicates_removed": 24,
+  "expired_removed": 0,
+  "top_ranked_count": 20,
+  "applications_prepared_for_approval": 5,
+  "total_awaiting_approval_in_center": 5,
+  "auto_submitted_count": 0,
+  "email_notification_status": "DUPLICATE_PREVENTED"
+}
+Report written to: C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_discovery_report.md
+[21-11-2026 13:55:19.71] Completed Scheduled Daily Internship Discovery with exit code 0 

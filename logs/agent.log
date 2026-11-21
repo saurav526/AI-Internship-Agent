@@ -309,3 +309,24 @@
 2026-11-20 12:31:47 | WARNING  | daily_automation:run_daily_discovery_pipeline:125 - Duplicate / overlapping execution prevented: Another daily_automation process is currently active.
 2026-11-20 12:34:51 | WARNING  | daily_automation:run_daily_discovery_pipeline:125 - Duplicate / overlapping execution prevented: Another daily_automation process is currently active.
 2026-11-20 12:36:23 | WARNING  | daily_automation:run_daily_discovery_pipeline:125 - Duplicate / overlapping execution prevented: Another daily_automation process is currently active.
+2026-11-20 21:58:51 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 46 curated internship listings.
+2026-11-20 21:58:59 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 46 curated internship listings.
+2026-11-20 21:59:06 | INFO     | email_notifications:_dispatch_notification:203 - Duplicate email notification prevented for dedup_key=daily_run_summary_2026-11-20_5_5_success
+2026-11-20 21:59:06 | INFO     | daily_automation:run_daily_discovery_pipeline:443 - Updated daily internship discovery report at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_discovery_report.md
+2026-11-21 13:47:23 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 46 curated internship listings.
+2026-11-21 13:47:56 | WARNING  | browser_automation:inspect_and_fill_application:1191 - Live visible browser automation could not complete on https://wellfound.com/role/l/artificial-intelligence-engineer/india (); preparing Manual Application Package.
+2026-11-21 13:47:56 | INFO     | database:approve_and_record_submission:817 - Application approved and submitted: app_id=18 (Wellfound AI Startups India - Generative AI Application Intern)
+2026-11-21 13:48:23 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 46 curated internship listings.
+2026-11-21 13:48:29 | INFO     | daily_automation:run_daily_discovery_pipeline:443 - Updated daily internship discovery report at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_discovery_report.md
+2026-11-21 13:51:42 | INFO     | job_discovery:discover_opportunities:869 - Discovered 28 jobs (role=All, location=All, platform=All)
+2026-11-21 13:53:18 | INFO     | database:mark_as_manually_submitted:936 - Application marked as manually submitted (no browser opened): app_id=19 (Zoho Labs (AI Research & Engineering) - AI & NLP Engineer Intern)
+2026-11-21 13:53:28 | INFO     | database:mark_as_manually_submitted:936 - Application marked as manually submitted (no browser opened): app_id=20 (KPIT Technologies (Autonomous & AI Division) - Machine Learning Engineer Intern (Predictive AI))
+2026-11-21 13:53:41 | INFO     | database:mark_as_manually_submitted:936 - Application marked as manually submitted (no browser opened): app_id=21 (Infosys InStep (Global AI & ML Internship) - AI Engineer Intern (Full-Stack AI Agents))
+2026-11-21 13:53:49 | INFO     | database:mark_as_manually_submitted:936 - Application marked as manually submitted (no browser opened): app_id=22 (TCS Research & Innovation (Data Science Internships) - Data Science & NLP Analytics Intern)
+2026-11-21 13:54:07 | INFO     | database:mark_as_manually_submitted:936 - Application marked as manually submitted (no browser opened): app_id=23 (Krutrim AI (Ola AI Labs) - Agentic AI & RAG Developer Intern)
+2026-11-21 13:54:32 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 46 curated internship listings.
+2026-11-21 13:54:38 | INFO     | email_notifications:_dispatch_notification:203 - Duplicate email notification prevented for dedup_key=daily_run_summary_2026-11-21_5_5_success
+2026-11-21 13:54:38 | INFO     | daily_automation:run_daily_discovery_pipeline:443 - Updated daily internship discovery report at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_discovery_report.md
+2026-11-21 13:55:13 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 46 curated internship listings.
+2026-11-21 13:55:19 | INFO     | email_notifications:_dispatch_notification:203 - Duplicate email notification prevented for dedup_key=daily_run_summary_2026-11-21_5_5_success
+2026-11-21 13:55:19 | INFO     | daily_automation:run_daily_discovery_pipeline:443 - Updated daily internship discovery report at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_discovery_report.md
