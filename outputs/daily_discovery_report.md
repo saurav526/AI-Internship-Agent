@@ -1,8 +1,8 @@
 # 📊 Daily AI Internship Discovery & Matching Report
 
 - **Execution Status:** `SUCCESS`
-- **Start Time:** `2026-11-21 13:55:13 IST`
-- **Completion Time:** `2026-11-21 13:55:19 IST` (`5.62s`)
+- **Start Time:** `2026-11-22 11:18:05 IST`
+- **Completion Time:** `2026-11-22 11:18:12 IST` (`6.46s`)
 - **Approved Resume Profile:** `SAURAV KUMAR` (`sauravtiwari2712005@gmail.com`)
 - **Target Roles:** AI Engineer, Agentic AI, Generative AI, Machine Learning, Data Science
 - **Target Locations:** India, Pune, Remote
@@ -11,15 +11,15 @@
 
 ## 📈 Pipeline Execution Summary
 
-- **Total Permitted Opportunities Discovered / Evaluated:** 23
-- **Verified Source Opportunities:** 16
+- **Total Permitted Opportunities Discovered / Evaluated:** 26
+- **Verified Source Opportunities:** 19
 - **Matching Opportunities (≥60% Match):** 22
-- **Duplicates Removed:** 24
+- **Duplicates Removed:** 28
 - **Expired Listings Removed:** 0
 - **Top Ranked Opportunities Listed:** 20
 - **Application Drafts Prepared This Run:** 5
 - **Total Drafts Currently Awaiting Approval in Approval Center:** 5
-- **Summary Email Notification Status:** `DUPLICATE_PREVENTED`
+- **Summary Email Notification Status:** `LOGGED_LOCAL_OUTBOX`
 
 ## 🏆 Top Ranked Internship Opportunities (Up to 20)
 
@@ -48,11 +48,11 @@
 
 ## ✉️ Prepared Application Drafts (Queued in Approval Center)
 
-- **Draft #73** — **Generative AI & LLM Research Intern** at **Sarvam AI** (Match: `70.9%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
-- **Draft #74** — **Agentic Workflow Engineer Intern** at **Hugging Face (Open-Source Agents & Hub)** (Match: `69.0%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
-- **Draft #75** — **Machine Learning Research Intern** at **Google DeepMind India (Student & Research Careers)** (Match: `68.5%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
-- **Draft #76** — **Agentic AI Systems Intern** at **Persistent Systems (Pune AI Lab)** (Match: `68.3%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
-- **Draft #77** — **Data Science & Analytics Intern** at **Internshala Data Science Feed (Pune & Remote)** (Match: `66.8%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
+- **Draft #83** — **Data Scientist Intern (Forecasting & ML)** at **Naukri Data Science Internships (Pune)** (Match: `64.3%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
+- **Draft #84** — **Project Manager EMEA, Production** at **LILT (Production)** (Match: `53.6%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
+- **Draft #85** — **Retention & CLV Operator (all genders)** at **Glow25** (Match: `49.2%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
+- **Draft #86** — **Growth Acquisition Operator (all genders)** at **Glow25** (Match: `49.2%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
+- **Draft #87** — **Python Developer Intern (AI & Automation)** at **AutoFlow Systems** (Match: `63.2%` | ⚠️ Demo Portal) — *Pending Approval (Never Auto-Submitted)*
 
 ## ⚠️ Source Diagnostics & Unavailable Sources Report
 
