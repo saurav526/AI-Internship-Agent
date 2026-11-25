@@ -1,8 +1,8 @@
 # 📊 Daily AI Internship Discovery & Matching Report
 
 - **Execution Status:** `SUCCESS`
-- **Start Time:** `2026-11-22 11:18:05 IST`
-- **Completion Time:** `2026-11-22 11:18:12 IST` (`6.46s`)
+- **Start Time:** `2026-11-25 10:25:07 IST`
+- **Completion Time:** `2026-11-25 10:25:14 IST` (`6.71s`)
 - **Approved Resume Profile:** `SAURAV KUMAR` (`sauravtiwari2712005@gmail.com`)
 - **Target Roles:** AI Engineer, Agentic AI, Generative AI, Machine Learning, Data Science
 - **Target Locations:** India, Pune, Remote
@@ -11,15 +11,15 @@
 
 ## 📈 Pipeline Execution Summary
 
-- **Total Permitted Opportunities Discovered / Evaluated:** 26
-- **Verified Source Opportunities:** 19
+- **Total Permitted Opportunities Discovered / Evaluated:** 23
+- **Verified Source Opportunities:** 16
 - **Matching Opportunities (≥60% Match):** 22
-- **Duplicates Removed:** 28
+- **Duplicates Removed:** 25
 - **Expired Listings Removed:** 0
 - **Top Ranked Opportunities Listed:** 20
-- **Application Drafts Prepared This Run:** 5
-- **Total Drafts Currently Awaiting Approval in Approval Center:** 5
-- **Summary Email Notification Status:** `LOGGED_LOCAL_OUTBOX`
+- **Application Drafts Prepared This Run:** 0
+- **Total Drafts Currently Awaiting Approval in Approval Center:** 0
+- **Summary Email Notification Status:** `DUPLICATE_PREVENTED`
 
 ## 🏆 Top Ranked Internship Opportunities (Up to 20)
 
@@ -48,11 +48,7 @@
 
 ## ✉️ Prepared Application Drafts (Queued in Approval Center)
 
-- **Draft #83** — **Data Scientist Intern (Forecasting & ML)** at **Naukri Data Science Internships (Pune)** (Match: `64.3%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
-- **Draft #84** — **Project Manager EMEA, Production** at **LILT (Production)** (Match: `53.6%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
-- **Draft #85** — **Retention & CLV Operator (all genders)** at **Glow25** (Match: `49.2%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
-- **Draft #86** — **Growth Acquisition Operator (all genders)** at **Glow25** (Match: `49.2%` | ✅ Verified Source) — *Pending Approval (Never Auto-Submitted)*
-- **Draft #87** — **Python Developer Intern (AI & Automation)** at **AutoFlow Systems** (Match: `63.2%` | ⚠️ Demo Portal) — *Pending Approval (Never Auto-Submitted)*
+- No new qualifying unapplied opportunities remained to prepare.
 
 ## ⚠️ Source Diagnostics & Unavailable Sources Report
 

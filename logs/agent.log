@@ -339,3 +339,28 @@
 2026-11-22 11:17:33 | INFO     | database:mark_as_manually_submitted:936 - Application marked as manually submitted (no browser opened): app_id=28 (Hugging Face (Open-Source Agents & Hub) - Agentic Workflow Engineer Intern)
 2026-11-22 11:18:05 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 46 curated internship listings.
 2026-11-22 11:18:12 | INFO     | daily_automation:run_daily_discovery_pipeline:443 - Updated daily internship discovery report at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_discovery_report.md
+2026-11-23 11:02:07 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 49 curated internship listings.
+2026-11-23 11:02:13 | INFO     | daily_automation:run_daily_discovery_pipeline:443 - Updated daily internship discovery report at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_discovery_report.md
+2026-11-23 12:50:56 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 50 curated internship listings.
+2026-11-23 12:51:21 | WARNING  | browser_automation:inspect_and_fill_application:1191 - Live visible browser automation could not complete on https://www.naukri.com/data-science-internship-jobs-in-pune (); preparing Manual Application Package.
+2026-11-23 12:51:21 | INFO     | database:approve_and_record_submission:817 - Application approved and submitted: app_id=29 (Naukri Data Science Internships (Pune) - Data Scientist Intern (Forecasting & ML))
+2026-11-23 12:51:28 | INFO     | database:mark_as_manually_submitted:936 - Application marked as manually submitted (no browser opened): app_id=30 (AutoFlow Systems - Python Developer Intern (AI & Automation))
+2026-11-23 12:51:35 | INFO     | database:approve_and_record_submission:817 - Application approved and submitted: app_id=31 (CortexPilot Labs - Agentic AI & Browser Automation Intern)
+2026-11-23 12:51:41 | INFO     | database:mark_as_manually_submitted:936 - Application marked as manually submitted (no browser opened): app_id=32 (LILT (Production) - Project Manager EMEA, Production)
+2026-11-23 12:51:49 | INFO     | database:mark_as_manually_submitted:936 - Application marked as manually submitted (no browser opened): app_id=33 (Glow25 - Retention & CLV Operator (all genders))
+2026-11-23 12:51:58 | INFO     | database:mark_as_manually_submitted:936 - Application marked as manually submitted (no browser opened): app_id=34 (Miaplaza - Hands-on Engineering Manager (C#/Vue))
+2026-11-23 12:52:05 | INFO     | database:mark_as_manually_submitted:936 - Application marked as manually submitted (no browser opened): app_id=35 (Glow25 - Growth Acquisition Operator (all genders))
+2026-11-23 12:52:08 | INFO     | export_utils:export_applications_to_csv:57 - Exported 33 applications to CSV at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\exports\internship_applications.csv
+2026-11-23 12:52:09 | INFO     | export_utils:export_applications_to_excel:72 - Exported 33 applications to Excel at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\exports\internship_applications.xlsx
+2026-11-25 10:21:15 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 50 curated internship listings.
+2026-11-25 10:21:44 | INFO     | export_utils:export_applications_to_csv:57 - Exported 33 applications to CSV at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\exports\internship_applications.csv
+2026-11-25 10:21:44 | INFO     | export_utils:export_applications_to_excel:72 - Exported 33 applications to Excel at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\exports\internship_applications.xlsx
+2026-11-25 10:21:48 | INFO     | export_utils:export_applications_to_csv:57 - Exported 33 applications to CSV at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\exports\internship_applications.csv
+2026-11-25 10:21:48 | INFO     | export_utils:export_applications_to_excel:72 - Exported 33 applications to Excel at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\exports\internship_applications.xlsx
+2026-11-25 10:21:49 | INFO     | export_utils:export_applications_to_csv:57 - Exported 33 applications to CSV at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\exports\internship_applications.csv
+2026-11-25 10:21:49 | INFO     | export_utils:export_applications_to_excel:72 - Exported 33 applications to Excel at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\exports\internship_applications.xlsx
+2026-11-25 10:22:54 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 50 curated internship listings.
+2026-11-25 10:23:01 | INFO     | daily_automation:run_daily_discovery_pipeline:443 - Updated daily internship discovery report at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_discovery_report.md
+2026-11-25 10:25:07 | INFO     | sample_data:ensure_sample_environment:317 - Synchronized 50 curated internship listings.
+2026-11-25 10:25:14 | INFO     | email_notifications:_dispatch_notification:203 - Duplicate email notification prevented for dedup_key=daily_run_summary_2026-11-25_0_0_success
+2026-11-25 10:25:14 | INFO     | daily_automation:run_daily_discovery_pipeline:443 - Updated daily internship discovery report at C:\Users\Asus\Downloads\AI-Internship-Agent\outputs\daily_discovery_report.md
